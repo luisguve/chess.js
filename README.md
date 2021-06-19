@@ -1,3 +1,9 @@
+# princechess.js
+
+princechess.js is a fork of [chess.js](https://github.com/jhlywa/chess.js) by Jeff Hlywa.
+
+It was modifie to support the rules of [Prince chess](https://princechess.netlify.app), a chess variation where the board has a dimention of 10x8 and two new pieces called princes as well as two extra pawns are added.
+
 # chess.js
 
 [![Build Status](https://travis-ci.org/jhlywa/chess.js.svg?branch=master)](https://travis-ci.org/jhlywa/chess.js)

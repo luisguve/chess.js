@@ -1,15 +1,17 @@
 {
-  "name": "chess.js",
-  "version": "0.11.0",
+  "name": "princechess.js",
+  "author": "Luis Villegas",
+  "version": "1.0.0",
   "license": "BSD-2-Clause",
-  "main": "chess.js",
-  "homepage": "https://github.com/jhlywa/chess.js",
+  "main": "princechess.js",
+  "homepage": "https://github.com/luisguve/princechess.js",
   "keywords": [
-    "chess"
+    "chess",
+    "prince chess"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhlywa/chess.js.git"
+    "url": "https://github.com/luisguve/princechess.js.git"
   },
   "devDependencies": {
     "jest": "^26.6.3"
